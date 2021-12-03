@@ -1,0 +1,7 @@
+C:\Users\Asus\Desktop\BankSchetCs\BankSchetCs\bin\Debug\BankSchetCs.exe.config
+C:\Users\Asus\Desktop\BankSchetCs\BankSchetCs\bin\Debug\BankSchetCs.exe
+C:\Users\Asus\Desktop\BankSchetCs\BankSchetCs\bin\Debug\BankSchetCs.pdb
+C:\Users\Asus\Desktop\BankSchetCs\BankSchetCs\obj\Debug\BankSchetCs.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\BankSchetCs\BankSchetCs\obj\Debug\BankSchetCs.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\BankSchetCs\BankSchetCs\obj\Debug\BankSchetCs.exe
+C:\Users\Asus\Desktop\BankSchetCs\BankSchetCs\obj\Debug\BankSchetCs.pdb
